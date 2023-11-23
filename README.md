@@ -1,4 +1,6 @@
 # Proyecto-BinaryFetch
 
-Integrante:                       Carnet:
--William Josue Pineda Martinez    00225919
+| Nombre Completo | Carnet |
+| -------------------------- | -------------------------- |
+| William Josue Pineda Martinez      | 00225919      |
+
